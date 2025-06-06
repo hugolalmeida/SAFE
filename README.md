@@ -20,7 +20,7 @@ O **SAFE** é um aplicativo desktop desenvolvido em Python com uma interface mod
 ![SAFE Logo](docs/SAFE-logo.png)  
 *Logo do SAFE*
 
-![SAFE UI Screenshot](docs/screenshot.png)  
+![SAFE UI Screenshot](docs/interface_SAFE.png)  
 *Interface do SAFE*
 
 ---
